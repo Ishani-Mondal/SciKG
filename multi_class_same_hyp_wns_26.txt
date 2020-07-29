@@ -1,0 +1,256 @@
+sentences1	type1	sentences2	type2	is_similar
+named entity recognition	TT	dependency parsing	TT	0
+named entity recognition	TT	parsing	TT	0
+parsing	TT	dependency parsing	TT	2
+parsing	TT	constituency parsing	TT	2
+parsing	TT	knowledge base	TT	0
+parsing	TT	parse	TT	1
+parsing	TT	dependency parsing	TT	2
+constituency parsing	TT	dependency parsing	TT	0
+named entity recognition	TT	dependency parsing	TT	0
+dependency parsing	TT	named entity recognition	TT	0
+parsing	TT	named entity recognition	TT	0
+constituency parsing	TT	named entity recognition	TT	0
+parsing	TT	dependency parsing	TT	2
+named entity recognition	TT	parsing	TT	0
+parsing	TT	constituency parsing	TT	2
+named entity recognition	TT	parsing	TT	0
+named entity recognition	TT	constituency parsing	TT	0
+named entity recognition	TT	constituency parsing	TT	0
+dependency parsing	TT	named entity recognition	TT	0
+named entity recognition	TT	named entity recognition	TT	1
+parsing	TT	named entity recognition	TT	0
+constituency parsing	TT	named entity recognition	TT	0
+binary question answering	TT	question answering	TT	2
+question answering	TT	question answering, commonsense	TT	2
+intent classification	TT	scoring classification	TT	2
+scoring classification	TT	intent classification	TT	2
+paraphrasing generation	TT	paraphrasing identification	TT	2
+question answering, commonsense	TT	question answering, dialogue	TT	2
+summarization, named entity recognition (ner), part-of-speech (pos)	TT	named entity recognition (ner), part-of-speech (pos)	TT	2
+speech recognition, visual	TT	speech recognition, dialogue, visual	TT	2
+entity recognition	TT	named entity recognition	TT	2
+classification, emotion detection	TT	classification, fake news detection	TT	2
+question answering, knowledge base	TT	question answering, commonsense	TT	2
+knowledge base	TT	knowledge graph	TT	2
+question answering	TT	visual question answering	TT	2
+question answering, dialogue	TT	question answering, visual	TT	2
+information extraction	TT	relation extraction	TT	2
+information extraction, visualization	TT	information extraction, event extraction	TT	2
+binary question answering	TT	visual question answering	TT	2
+named entity recognition	TT	named entity recognition	TT	1
+question answering, dialogue	TT	question answering, visual, dialogue	TT	2
+information extraction, event extraction, dialogue	TT	information extraction, event extraction	TT	2
+semantic parsing, sql-to-text	TT	semantic parsing, text-to-sql	TT	2
+question answering, knowledge graph	TT	question answering, knowledge base	TT	2
+question answering	TT	binary question answering	TT	2
+speech recognition, machine translation	TT	speech translation, machine translation	TT	1
+intent classification	TT	text classification	TT	2
+emotion classification	TT	text classification	TT	2
+question answering, reading comprehension, dialogue	TT	question answering, reading comprehension, commonsense	TT	1
+classification	TT	text classification	TT	2
+question answering	TT	binary question answering	TT	2
+intent classification	TT	emotion classification	TT	1
+visual question answering	TT	question answering	TT	2
+classification, fake news detection	TT	classification, emotion detection	TT	2
+classification, fake news detection	TT	visual question answering	TT	0
+classification, fake news detection	TT	intent classification	TT	0
+question answering, commonsense	TT	question answering, visual, commonsense	TT	2
+speech recognition, visual	TT	speech recognition, visual, dialogue	TT	2
+representation learning	TT	learning semantic representations	TT	2
+representation learning	TT	learning network representations	TT	2
+representation learning	TT	language identification 	TT	0
+representation learning	TT	knowledge base, nlu	TT	0
+representation learning	TT	relation extraction	TT	0
+question similarity 	TT	medical question pair similarity computation	TT	2
+abstractive text summarization 	TT	timeline summarization	TT	2
+abstractive text summarization 	TT	reader-aware summarization	TT	2
+anaphora resolution 	TT	abstract anaphora resolution 	TT	2
+anaphora resolution 	TT	bridging anaphora resolution 	TT	2
+recall	METRIC	f-measure	METRIC	0
+recall	METRIC	f1	METRIC	0
+recall	METRIC	accuracy	METRIC	0
+precision	METRIC	accuracy	METRIC	0
+f1-score	METRIC	recall	METRIC	0
+f1-score	METRIC	precision	METRIC	0
+f1-score	METRIC	accuracy	METRIC	0
+f-measure	METRIC	recall	METRIC	0
+f-measure	METRIC	precision	METRIC	0
+f-measure	METRIC	accuracy	METRIC	0
+f1	METRIC	recall	METRIC	0
+f1	METRIC	precision	METRIC	0
+f1	METRIC	accuracy	METRIC	0
+genia corpus	DATASET	sancl 2012 shared task	DATASET	0
+genia corpus	DATASET	conll 2006 and 2007 shared task	DATASET	0
+conll 2006 and 2007 shared task	DATASET	Conll 2006	DATASET	2
+genia corpus	DATASET	penn treebank	DATASET	0
+genia corpus	DATASET	genia corpus	DATASET	1
+genia corpus	DATASET	negra treebank	DATASET	0
+genia corpus	DATASET	genia training data	DATASET	2
+genia training data	DATASET	genia corpus	DATASET	2
+sancl 2012 shared task	DATASET	genia corpus	DATASET	0
+sancl 2012 shared task	DATASET	conll 2006 and 2007 shared task	DATASET	0
+sancl 2012 shared task	DATASET	penn treebank	DATASET	0
+sancl 2012 shared task	DATASET	negra treebank	DATASET	0
+negra treebank	DATASET	sancl 2012 shared task	DATASET	0
+negra treebank	DATASET	conll 2006 and 2007 shared task	DATASET	0
+negra treebank	DATASET	penn treebank	DATASET	1
+ace dataset	DATASET	Ace 2004 dataset	DATASET	2
+ace dataset	DATASET	Ace 2004 dataset	DATASET	2
+ace dataset	DATASET	ace corpus	DATASET	1
+ace dataset	DATASET	ncbi dataset	DATASET	0
+ace dataset	DATASET	Ace-aa dataset	DATASET	2
+constituency parsing	TT	named entity recognition	TT	0
+dependency parsing	TT	named entity recognition	TT	0
+named entity recognition	TT	constituency parsing	TT	0
+named entity recognition	TT	dependency parsing	TT	0
+named entity recognition	TT	parsing	TT	0
+representation learning	TT	learning representation on graph	TT	2
+question answering 	TT	open-domain question answering 	TT	2
+question answering 	TT	community question answering 	TT	2
+question answering 	TT	knowledge-base question answering 	TT	1
+text generation 	TT	text style transfer	TT	2
+text generation 	TT	paraphrase generation	TT	2
+named entity recognition	TT	medical named entity recognition	TT	2
+named entity recognition	TT	cross-domain named entity recognition	TT	2
+reading comprehension 	TT	multi-hop reading comprehension	TT	2
+text summarization 	TT	abstractive text summarization 	TT	2
+text summarization 	TT	document summarization	TT	2
+text summarization 	TT	multi-document summarization	TT	2
+text summarization 	TT	sentence summarization	TT	2
+natural language inference 	TT	cross-lingual natural language inference 	TT	2
+relation extraction	TT	multi-labeled relation extraction	TT	2
+anaphora resolution 	TT	abstract anaphora resolution 	TT	2
+anaphora resolution 	TT	bridging anaphora resolution 	TT	2
+speculation detection 	TT	speculation scope detection	TT	2
+question answering, reading comprehension	TT	question answering, visual	TT	0
+question answering, reading comprehension	TT	text corpora, classification	TT	0
+f1-score	METRIC	hits	METRIC	0
+f1-score	METRIC	MRR	METRIC	0
+constituency	TT	natural language processing	TT	0
+identification	TT	constituent	TT	0
+identification	TT	enquiry	TT	0
+question	TT	natural language processing	TT	0
+algorithmic language	TT	programming language	TT	2
+data processing	TT	automatic data processing	TT	2
+data processing	TT	busineess data processing	TT	2
+data processing	TT	identification	TT	0
+data processing	TT	natural language processing	TT	0
+department	TT	business department	TT	2
+program	TT	tagging program	TT	2
+program	TT	data processing	TT	0
+district	TT	program	TT	0
+aster	TT	Aster ptarmicoides	TT	2
+aster	TT	Aster shortii	TT	2
+aster	TT	Aster dumosus	TT	2
+aster	TT	district	TT	0
+aster	TT	program	TT	0
+aster	TT	department	TT	0
+f-measure	METRIC	f-scores	METRIC	1
+f-measure	METRIC	f1-score	METRIC	1
+f-measure	METRIC	f1	METRIC	1
+f-scores	METRIC	f-measure	METRIC	1
+f-scores	METRIC	f1-score	METRIC	1
+f1-score	METRIC	f1	METRIC	1
+f1	METRIC	f-measure	METRIC	1
+f1-score	METRIC	f-scores	METRIC	0
+question answering 	TT	question answering 	TT	1
+question answering 	TT	question answering 	TT	1
+language modelling 	TT	language modelling 	TT	1
+question answering	TT	question answering	TT	1
+information extraction, visualization	TT	information extraction, visualization	TT	1
+binary question answering	TT	binary question answering	TT	1
+named entity recognition	TT	named entity recognition	TT	1
+question answering, dialogue	TT	question answering, dialogue	TT	1
+information extraction, event extraction, dialogue	TT	information extraction, event extraction, dialogue	TT	1
+semantic parsing, sql-to-text	TT	semantic parsing, sql-to-text	TT	1
+relation extraction	TT	relationship extraction	TT	1
+question answering, knowledge graph	TT	question answering, knowledge graph	TT	1
+question answering	TT	question answering	TT	1
+language identification 	TT	language identification 	TT	1
+knowledge base, nlu	TT	knowledge base, nlu	TT	1
+medical question pair similarity computation	TT	medical question pair similarity computation	TT	1
+timeline summarization	TT	timeline summarization	TT	1
+reader-aware summarization	TT	reader-aware summarization	TT	1
+abstract anaphora resolution 	TT	abstract anaphora resolution 	TT	1
+bridging anaphora resolution 	TT	bridging anaphora resolution 	TT	1
+visual question answering	TT	visual question answering	TT	1
+named entity recognition	TT	named entity recognition	TT	1
+question answering, visual, dialogue	TT	question answering, visual, dialogue	TT	1
+information extraction, event extraction	TT	information extraction, event extraction	TT	1
+semantic parsing, text-to-sql	TT	semantic parsing, text-to-sql	TT	1
+question answering, knowledge base	TT	question answering, knowledge base	TT	1
+binary question answering	TT	binary question answering	TT	1
+intent classification	TT	intent classification	TT	1
+speech translation, machine translation	TT	speech translation, machine translation	TT	1
+text classification	TT	text classification	TT	1
+question answering, semantic role labeling	TT	question answering, semantic role labeling	TT	1
+text classification	TT	text classification	TT	1
+question answering, reading comprehension, commonsense	TT	question answering, reading comprehension, commonsense	TT	1
+text classification	TT	text classification	TT	1
+binary question answering	TT	binary question answering	TT	1
+emotion classification	TT	emotion classification	TT	1
+question answering	TT	question answering	TT	1
+classification, emotion detection	TT	classification, emotion detection	TT	1
+question answering, visual, commonsense	TT	question answering, visual, commonsense	TT	1
+question answering, reading comprehension, visual	TT	question answering, reading comprehension, visual	TT	1
+question answering, reading comprehension	TT	question answering, reading comprehension	TT	1
+speech recognition, visual	TT	speech recognition, visual	TT	1
+f-scores	METRIC	f1	METRIC	1
+precision	METRIC	precision@1	METRIC	2
+Recall@K	METRIC	precision@2	METRIC	0
+Recall@K	METRIC	precision@5	METRIC	0
+Recall@K	METRIC	precision@4	METRIC	0
+precision	METRIC	Precision@1	METRIC	2
+precision	METRIC	Precision@2	METRIC	2
+precision	METRIC	Precision@3	METRIC	2
+recall	METRIC	recall@1	METRIC	2
+recall	METRIC	recall@2	METRIC	2
+recall	METRIC	recall@3	METRIC	2
+recall	METRIC	recall@5	METRIC	2
+f1 score	METRIC	f1	METRIC	1
+f1	METRIC	f1 score	METRIC	1
+ontonotes corpus	DATASET	ontonotes dataset	DATASET	1
+ontonotes dataset	DATASET	ontonotes data	DATASET	1
+ontonotes dataset	DATASET	Ontonotes 5.0 data	DATASET	2
+ontonotes dataset	DATASET	genia corpus	DATASET	0
+ontonotes dataset	DATASET	penn treebank	DATASET	0
+ontonotes dataset	DATASET	Ontonotes 4.0 data	DATASET	2
+ontonotes corpus	DATASET	Ontonotes 4.0 data	DATASET	2
+ontonotes corpus	DATASET	genia corpus	DATASET	0
+ACE corpus	DATASET	genia corpus	DATASET	0
+ACE corpus	DATASET	ACE training data	DATASET	2
+ACE training data	DATASET	ACE corpus	DATASET	2
+Ontonotes 4.0 data	DATASET	Ontonotes 5.0 data	DATASET	0
+ACE 2004 data	DATASET	Ontonotes 5.0 data	DATASET	0
+conll shared task	DATASET	Conll 2004 shared task	DATASET	2
+Conll 2004 shared task	DATASET	conll shared task	DATASET	2
+Conll 2004 shared task	DATASET	ACE corpus	DATASET	0
+Conll 2004 shared task	DATASET	ACE training data	DATASET	0
+Conll 2004 shared task	DATASET	Ontonotes 4.0 data	DATASET	0
+Conll 2004 shared task	DATASET	Ontonotes 5.0 data	DATASET	0
+ontonotes dataset	DATASET	ace dataset	DATASET	0
+ace dataset	DATASET	genia dataset	DATASET	0
+ace dataset	DATASET	Ontonotes 5.0 data	DATASET	0
+ace dataset	DATASET	conll shared task	DATASET	0
+ace dataset	DATASET	ace dataset	DATASET	1
+ace dataset	DATASET	ace corpus	DATASET	1
+ace dataset	DATASET	ace test data	DATASET	2
+ace dataset	DATASET	ace test set	DATASET	2
+mean reciprocal rank	METRIC	mean reciprocal rank	METRIC	1
+mean reciprocal rank	METRIC	recall	METRIC	0
+recall	METRIC	precision	METRIC	0
+precision	METRIC	mean reciprocal rank	METRIC	0
+documentlevel semantic classification	TT	semantic analysis	TT	2
+documentlevel text classification	TT	structure based text classification	TT	2
+documentlevel text classification	TT	documentlevel text classification	TT	1
+documentlevel text classification	TT	text classification	TT	2
+documentlevel text classification	TT	structure based text analysis	TT	2
+documentlevel text classification	TT	bridging anaphora resolution 	TT	0
+documentlevel text classification	TT	anaphora resolution 	TT	0
+data mining	TT	structure based data classification	TT	2
+semantic analysis	TT	documentlevel semantic classification	TT	2
+semantic analysis	TT	text classification	TT	0
+data mining	TT	phraselevel data classification	TT	2
+BC5CDR corpus	DATASET	genia corpus	DATASET	0
+BC5CDR corpus	DATASET	BC5CDR corpus	DATASET	1
