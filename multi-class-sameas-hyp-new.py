@@ -26,7 +26,7 @@ train_df = pd.DataFrame(train_data, columns=['text_a', 'text_b', 'labels'])
 
 
 eval_data=[]
-eval_df = pd.read_csv('Sameas_Hyp_Entire_Test.txt', delimiter="\t", error_bad_lines=False)
+eval_df = pd.read_csv('Final_big_test.txt', delimiter="\t", error_bad_lines=False)
 for ind in eval_df.index:
      print('Creating Eval Data')
      sentences=[]
