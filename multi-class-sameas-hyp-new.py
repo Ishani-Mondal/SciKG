@@ -12,7 +12,7 @@ transformers_logger = logging.getLogger("transformers")
 transformers_logger.setLevel(logging.WARNING)
 
 # Train and Evaluation data needs to be in a Pandas Dataframe of two columns. The first column is the text with type str, and the second column is the label with type int.
-train_df = pd.read_csv('multi_class_same_hyp_wns_26.txt', delimiter="\t", error_bad_lines=False)
+train_df = pd.read_csv('./data/multi_class_same_hyp_wns_26.txt', delimiter="\t", error_bad_lines=False)
 train_data=[]
 for ind in train_df.index:
      sentences=[]
@@ -26,7 +26,7 @@ train_df = pd.DataFrame(train_data, columns=['text_a', 'text_b', 'labels'])
 
 
 eval_data=[]
-eval_df = pd.read_csv('Final_big_test.txt', delimiter="\t", error_bad_lines=False)
+eval_df = pd.read_csv('./data/Final_big_test.txt', delimiter="\t", error_bad_lines=False)
 for ind in eval_df.index:
      print('Creating Eval Data')
      sentences=[]
@@ -59,7 +59,7 @@ print("Start Evaluating")
 result, model_outputs, wrong_predictions = model.eval_model(eval_df, acc=sklearn.metrics.accuracy_score)
 
 print("Evaluation done, writing ")
-file1=open('output_entire.txt','w')
+file1=open('./data/output_entire.txt','w')
 i=0
 true=[]
 preds=[]

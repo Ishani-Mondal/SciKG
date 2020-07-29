@@ -2,10 +2,10 @@ from flair.data import Sentence
 from flair.embeddings import WordEmbeddings, FlairEmbeddings, TransformerWordEmbeddings
 embedding = TransformerWordEmbeddings('allenai/scibert_scivocab_uncased')
 
-f=open('Sameas_Hyp_Entire_Test.txt')
+f=open('./data/Sameas_Hyp_Entire_Test.txt')
 content=f.read()
 
-f1=open('Final_big_test.txt','w')
+f1=open('./data/Final_big_test.txt','w')
 f1.write('sentences1'+"\t"+'type1'+'\tsentences2\t'+'type2'+"\tis_similar"+"\n")
 for line in content.split("\n"):
     if(line!=""):
