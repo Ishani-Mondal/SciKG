@@ -4,8 +4,8 @@ import logging
 import numpy as np
 import sklearn
 import torch
-#torch.manual_seed(0)
-np.random.seed(0)
+torch.manual_seed(123)
+np.random.seed(123)
 
 logging.basicConfig(level=logging.INFO)
 transformers_logger = logging.getLogger("transformers")
@@ -26,7 +26,7 @@ train_df = pd.DataFrame(train_data, columns=['text_a', 'text_b', 'labels'])
 
 
 eval_data=[]
-eval_df = pd.read_csv('./data/Final_big_test.txt', delimiter="\t", error_bad_lines=False)
+eval_df = pd.read_csv('./data/Sameas_Hyp_Entire_Test.txt', delimiter="\t", error_bad_lines=False)
 for ind in eval_df.index:
      print('Creating Eval Data')
      sentences=[]
@@ -68,5 +68,6 @@ for elem in model_outputs:
   preds.append(np.argmax(elem, axis=-1))
   print('Writing')
   if(str(np.argmax(elem, axis=-1))!='0'):
-    file1.write(str(np.argmax(elem, axis=-1))+"\n")
+    file1.write(str(eval_df['text_a'])+"\t"+str(eval_df['text_b'])+"\t"+str(np.argmax(elem, axis=-1))+"\n")
   i=i+1
+
