@@ -1,4 +1,4 @@
-# SciNLP-KG
+# SciKG
 
 This repository contains the code for end-to-end construction of ACL Anthology Knowledge Graph
 
