@@ -1,0 +1,2588 @@
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task image retrieval is present in 2000
+The task information retrieval is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task speech recognition is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task relation extraction is present in 2000
+The task  is present in 2000
+The task speech recognition is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task question answering is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task coreference resolution is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task question answering is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task question answering is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task text summarization is present in 2000
+The task task is present in 2000
+The task question answering is present in 2000
+The task information retrieval is present in 2000
+The task ad-hoc information retrieval is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task information retrieval is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task part-of-speech tagging is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task part-of-speech tagging is present in 2000
+The task  is present in 2000
+The task named entity recognition is present in 2000
+The task  is present in 2000
+The task speech recognition is present in 2000
+The task task is present in 2000
+The task part-of-speech tagging is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task named entity recognition is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task question answering is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task speech recognition is present in 2000
+The task optical character recognition is present in 2000
+The task  is present in 2000
+The task speech recognition is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task speech recognition is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task language modelling is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task word sense disambiguation is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task word sense disambiguation is present in 2000
+The task information retrieval is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task speech recognition is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task part-of-speech tagging is present in 2000
+The task chunking is present in 2000
+The task  is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task speech recognition is present in 2000
+The task task is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task part-of-speech tagging is present in 2000
+The task  is present in 2000
+The task anomaly detection is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task speech recognition is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task text summarization is present in 2000
+The task task is present in 2000
+The task text generation is present in 2000
+The task  is present in 2000
+The task speech recognition is present in 2000
+The task  is present in 2000
+The task face generation is present in 2000
+The task feature selection is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task speech recognition is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task speech recognition is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task text summarization is present in 2000
+The task optical character recognition is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task speech recognition is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task speech recognition is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task speech synthesis is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task word sense disambiguation is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task speech recognition is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task speech recognition is present in 2000
+The task speech synthesis is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task information retrieval is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task speech recognition is present in 2000
+The task word sense disambiguation is present in 2000
+The task information retrieval is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task language acquisition is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task speech recognition is present in 2000
+The task  is present in 2000
+The task speech recognition is present in 2000
+The task task is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task text summarization is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task word sense disambiguation is present in 2000
+The task question answering is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task language acquisition is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task information retrieval is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task speech recognition is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task information retrieval is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task speech recognition is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task information retrieval is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task question answering is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task speech recognition is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task language modelling is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task information retrieval is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task semantic role labeling is present in 2000
+The task text summarization is present in 2000
+The task speech recognition is present in 2000
+The task task is present in 2000
+The task word sense disambiguation is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task information retrieval is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task question answering is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task speech recognition is present in 2000
+The task language modelling is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task image retrieval is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task word sense disambiguation is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task word sense disambiguation is present in 2000
+The task information retrieval is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task reading comprehension is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task information retrieval is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task information retrieval is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task text generation is present in 2000
+The task speech synthesis is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task speech recognition is present in 2000
+The task task is present in 2000
+The task speech synthesis is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task text summarization is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task text summarization is present in 2000
+The task task is present in 2000
+The task text generation is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task text summarization is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task information retrieval is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task speech recognition is present in 2000
+The task information retrieval is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task coreference resolution is present in 2000
+The task named entity recognition is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task speech recognition is present in 2000
+The task task is present in 2000
+The task chunking is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task reading comprehension is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task reading comprehension is present in 2000
+The task speech recognition is present in 2000
+The task task is present in 2000
+The task part-of-speech tagging is present in 2000
+The task  is present in 2000
+The task reading comprehension is present in 2000
+The task task is present in 2000
+The task coreference resolution is present in 2000
+The task named entity recognition is present in 2000
+The task  is present in 2000
+The task reading comprehension is present in 2000
+The task task is present in 2000
+The task question answering is present in 2000
+The task  is present in 2000
+The task reading comprehension is present in 2000
+The task question answering is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task natural language inference is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task chunking is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task text-to-speech synthesis is present in 2000
+The task speech synthesis is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task word sense disambiguation is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task chunking is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task word sense disambiguation is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task feature selection is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task feature selection is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task chunking is present in 2000
+The task  is present in 2000
+The task speech synthesis is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task language acquisition is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task feature selection is present in 2000
+The task task is present in 2000
+The task language acquisition is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task chunking is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task part-of-speech tagging is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task chunking is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task chunking is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task chunking is present in 2000
+The task  is present in 2000
+The task chunking is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task language acquisition is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task information retrieval is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task information retrieval is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task word sense disambiguation is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task question answering is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task speech recognition is present in 2000
+The task  is present in 2000
+The task speech recognition is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task speech recognition is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task speech recognition is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task word sense disambiguation is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task question answering is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task word sense disambiguation is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task text summarization is present in 2000
+The task task is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task part-of-speech tagging is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task word sense disambiguation is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task text summarization is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task word sense disambiguation is present in 2000
+The task information retrieval is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task relation extraction is present in 2000
+The task chunking is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task part-of-speech tagging is present in 2000
+The task dependency parsing is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task feature selection is present in 2000
+The task task is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task word sense disambiguation is present in 2000
+The task  is present in 2000
+The task word sense disambiguation is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task speech recognition is present in 2000
+The task information retrieval is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task word sense disambiguation is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task text classification is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task feature selection is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task part-of-speech tagging is present in 2000
+The task chunking is present in 2000
+The task  is present in 2000
+The task text classification is present in 2000
+The task task is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task information retrieval is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task chunking is present in 2000
+The task  is present in 2000
+The task speech recognition is present in 2000
+The task optical character recognition is present in 2000
+The task  is present in 2000
+The task speech recognition is present in 2000
+The task part-of-speech tagging is present in 2000
+The task  is present in 2000
+The task information retrieval is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task information retrieval is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task word alignment is present in 2000
+The task information retrieval is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task reading comprehension is present in 2000
+The task task is present in 2000
+The task question answering is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task semantic parsing is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task word sense disambiguation is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task part-of-speech tagging is present in 2000
+The task word sense disambiguation is present in 2000
+The task information retrieval is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task eeg is present in 2000
+The task word sense disambiguation is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task text generation is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task text generation is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task text generation is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task text generation is present in 2000
+The task  is present in 2000
+The task text generation is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task text generation is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task text summarization is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task text summarization is present in 2000
+The task task is present in 2000
+The task information retrieval is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task speech recognition is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task speech recognition is present in 2000
+The task task is present in 2000
+The task coreference resolution is present in 2000
+The task word sense disambiguation is present in 2000
+The task information retrieval is present in 2000
+The task  is present in 2000
+The task word sense disambiguation is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task named entity recognition is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task text generation is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task video summarization is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task video summarization is present in 2000
+The task speech synthesis is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task word sense disambiguation is present in 2000
+The task information retrieval is present in 2000
+The task machine translation is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task  is present in 2000
+The task task is present in 2000
+The task  is present in 2000
+The task  is present in 1983
+The task  is present in 1983
+The task  is present in 1983
+The task  is present in 1983
+The task  is present in 1983
+The task  is present in 1983
+The task  is present in 1983
+The task  is present in 1983
+The task  is present in 1983
+The task  is present in 1983
+The task  is present in 1983
+The task  is present in 1983
+The task  is present in 1983
+The task task is present in 1983
+The task text generation is present in 1983
+The task  is present in 1983
+The task speech recognition is present in 1983
+The task  is present in 1983
+The task speech recognition is present in 1983
+The task  is present in 1983
+The task  is present in 1983
+The task  is present in 1983
+The task  is present in 1983
+The task  is present in 1983
+The task  is present in 1983
+The task  is present in 1983
+The task  is present in 1983
+The task text generation is present in 1983
+The task  is present in 1983
+The task  is present in 1983
+The task task is present in 1983
+The task  is present in 1983
+The task task is present in 1983
+The task  is present in 1988
+The task  is present in 1988
+The task  is present in 1988
+The task  is present in 1988
+The task  is present in 1988
+The task  is present in 1988
+The task  is present in 1988
+The task  is present in 1988
+The task  is present in 1988
+The task task is present in 1988
+The task  is present in 1988
+The task  is present in 1988
+The task task is present in 1988
+The task  is present in 1988
+The task task is present in 1988
+The task  is present in 1988
+The task  is present in 1988
+The task stochastic optimization is present in 1988
+The task  is present in 1988
+The task chunking is present in 1988
+The task  is present in 1988
+The task  is present in 1988
+The task  is present in 1988
+The task  is present in 1988
+The task  is present in 1988
+The task machine translation is present in 1988
+The task  is present in 1988
+The task  is present in 1988
+The task  is present in 1988
+The task task is present in 1988
+The task  is present in 1988
+The task text-to-speech synthesis is present in 1988
+The task speech synthesis is present in 1988
+The task  is present in 1988
+The task  is present in 1988
+The task task is present in 1988
+The task  is present in 1988
+The task  is present in 1988
+The task text generation is present in 1988
+The task information retrieval is present in 1988
+The task  is present in 1988
+The task language acquisition is present in 1988
+The task  is present in 1988
+The task text generation is present in 1988
+The task  is present in 1988
+The task  is present in 1988
+The task  is present in 1988
+The task  is present in 1988
+The task  is present in 1988
+The task  is present in 1988
+The task  is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task task is present in 1992
+The task information retrieval is present in 1992
+The task  is present in 1992
+The task speech recognition is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task task is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task machine translation is present in 1992
+The task  is present in 1992
+The task task is present in 1992
+The task machine translation is present in 1992
+The task  is present in 1992
+The task task is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task task is present in 1992
+The task word sense disambiguation is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task task is present in 1992
+The task  is present in 1992
+The task machine translation is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task task is present in 1992
+The task  is present in 1992
+The task task is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task task is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task machine translation is present in 1992
+The task  is present in 1992
+The task machine translation is present in 1992
+The task  is present in 1992
+The task machine translation is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task  is present in 1992
+The task information retrieval is present in 1992
+The task  is present in 1994
+The task  is present in 1994
+The task speech recognition is present in 1994
+The task machine translation is present in 1994
+The task  is present in 1994
+The task language modelling is present in 1994
+The task  is present in 1994
+The task  is present in 1994
+The task  is present in 1994
+The task  is present in 1994
+The task task is present in 1994
+The task  is present in 1994
+The task  is present in 1994
+The task language acquisition is present in 1994
+The task  is present in 1994
+The task speech recognition is present in 1994
+The task task is present in 1994
+The task  is present in 1994
+The task speech recognition is present in 1994
+The task task is present in 1994
+The task  is present in 1994
+The task task is present in 1994
+The task part-of-speech tagging is present in 1994
+The task  is present in 1994
+The task  is present in 1994
+The task  is present in 1994
+The task information retrieval is present in 1994
+The task  is present in 1994
+The task  is present in 1994
+The task  is present in 1994
+The task task is present in 1994
+The task  is present in 1994
+The task  is present in 1994
+The task  is present in 1994
+The task  is present in 1994
+The task  is present in 1994
+The task  is present in 1994
+The task  is present in 1994
+The task  is present in 1994
+The task  is present in 1994
+The task  is present in 1994
+The task text generation is present in 1994
+The task  is present in 1994
+The task  is present in 1994
+The task task is present in 1994
+The task  is present in 1994
+The task  is present in 1994
+The task task is present in 1994
+The task  is present in 1994
+The task task is present in 1994
+The task text generation is present in 1994
+The task  is present in 1994
+The task  is present in 1994
+The task  is present in 1994
+The task  is present in 1994
+The task  is present in 1994
+The task text generation is present in 1994
+The task  is present in 1994
+The task text generation is present in 1994
+The task  is present in 1994
+The task  is present in 1994
+The task task is present in 1994
+The task  is present in 1994
+The task text generation is present in 1994
+The task  is present in 1994
+The task task is present in 1994
+The task text generation is present in 1994
+The task  is present in 1994
+The task task is present in 1994
+The task text generation is present in 1994
+The task  is present in 1994
+The task  is present in 1994
+The task task is present in 1994
+The task  is present in 1994
+The task  is present in 1994
+The task  is present in 1994
+The task task is present in 1994
+The task  is present in 1994
+The task text generation is present in 1994
+The task  is present in 1994
+The task  is present in 1994
+The task  is present in 1994
+The task face generation is present in 1994
+The task  is present in 1994
+The task task is present in 1994
+The task text generation is present in 1994
+The task  is present in 1994
+The task  is present in 1994
+The task  is present in 1994
+The task  is present in 1994
+The task  is present in 1994
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task machine translation is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task information retrieval is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task word sense disambiguation is present in 1997
+The task  is present in 1997
+The task word sense disambiguation is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task information retrieval is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task information retrieval is present in 1997
+The task  is present in 1997
+The task machine translation is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task information retrieval is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task speech recognition is present in 1997
+The task  is present in 1997
+The task speech recognition is present in 1997
+The task task is present in 1997
+The task language modelling is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task machine translation is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task feature selection is present in 1997
+The task task is present in 1997
+The task language modelling is present in 1997
+The task part-of-speech tagging is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task feature selection is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task part-of-speech tagging is present in 1997
+The task word sense disambiguation is present in 1997
+The task information retrieval is present in 1997
+The task machine translation is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task information retrieval is present in 1997
+The task machine translation is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task word sense disambiguation is present in 1997
+The task machine translation is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task word sense disambiguation is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task text generation is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task part-of-speech tagging is present in 1997
+The task word sense disambiguation is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task text classification is present in 1997
+The task  is present in 1997
+The task part-of-speech tagging is present in 1997
+The task word sense disambiguation is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task speech recognition is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task information retrieval is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task part-of-speech tagging is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task speech recognition is present in 1997
+The task task is present in 1997
+The task information retrieval is present in 1997
+The task machine translation is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task information retrieval is present in 1997
+The task machine translation is present in 1997
+The task  is present in 1997
+The task word sense disambiguation is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task word sense disambiguation is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task information retrieval is present in 1997
+The task  is present in 1997
+The task information retrieval is present in 1997
+The task machine translation is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task machine translation is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task machine translation is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task word sense disambiguation is present in 1997
+The task machine translation is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task word sense disambiguation is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task machine translation is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task speech recognition is present in 1997
+The task machine translation is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task speech recognition is present in 1997
+The task machine translation is present in 1997
+The task  is present in 1997
+The task speech recognition is present in 1997
+The task task is present in 1997
+The task machine translation is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task speech recognition is present in 1997
+The task machine translation is present in 1997
+The task  is present in 1997
+The task speech recognition is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task speech recognition is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task machine translation is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task information retrieval is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task speech synthesis is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task speech synthesis is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task language acquisition is present in 1997
+The task  is present in 1997
+The task speech recognition is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task speech recognition is present in 1997
+The task  is present in 1997
+The task speech recognition is present in 1997
+The task  is present in 1997
+The task speech recognition is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task speech recognition is present in 1997
+The task speech synthesis is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task speech recognition is present in 1997
+The task task is present in 1997
+The task information retrieval is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task information retrieval is present in 1997
+The task  is present in 1997
+The task speech recognition is present in 1997
+The task  is present in 1997
+The task speech recognition is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task speech recognition is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task speech recognition is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task text generation is present in 1997
+The task information retrieval is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task text summarization is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task text classification is present in 1997
+The task task is present in 1997
+The task information retrieval is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task word sense disambiguation is present in 1997
+The task information retrieval is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task word sense disambiguation is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task information retrieval is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task part-of-speech tagging is present in 1997
+The task word sense disambiguation is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task information retrieval is present in 1997
+The task machine translation is present in 1997
+The task  is present in 1997
+The task chunking is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task speech recognition is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task machine translation is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task word sense disambiguation is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task language acquisition is present in 1997
+The task  is present in 1997
+The task language acquisition is present in 1997
+The task  is present in 1997
+The task speech recognition is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task speech recognition is present in 1997
+The task optical character recognition is present in 1997
+The task machine translation is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task word sense disambiguation is present in 1997
+The task machine translation is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task speech recognition is present in 1997
+The task speech synthesis is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task speech synthesis is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task machine translation is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task machine translation is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task part-of-speech tagging is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task machine translation is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task coreference resolution is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task part-of-speech tagging is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task speech recognition is present in 1997
+The task text-to-speech synthesis is present in 1997
+The task speech synthesis is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task information retrieval is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task speech recognition is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task speech recognition is present in 1997
+The task task is present in 1997
+The task speech synthesis is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task text generation is present in 1997
+The task  is present in 1997
+The task information retrieval is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task task is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 1997
+The task  is present in 2008
+The task  is present in 2008
+The task speech recognition is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task text classification is present in 2008
+The task text summarization is present in 2008
+The task task is present in 2008
+The task outlier detection is present in 2008
+The task information retrieval is present in 2008
+The task  is present in 2008
+The task speech recognition is present in 2008
+The task task is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task semantic role labeling is present in 2008
+The task task is present in 2008
+The task question answering is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task subjectivity analysis is present in 2008
+The task question answering is present in 2008
+The task text-to-speech synthesis is present in 2008
+The task speech synthesis is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task information retrieval is present in 2008
+The task  is present in 2008
+The task dependency parsing is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task dependency parsing is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task text summarization is present in 2008
+The task sentence compression is present in 2008
+The task task is present in 2008
+The task text generation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task question answering is present in 2008
+The task word alignment is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task word sense disambiguation is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task question answering is present in 2008
+The task entity disambiguation is present in 2008
+The task  is present in 2008
+The task feature selection is present in 2008
+The task task is present in 2008
+The task named entity recognition is present in 2008
+The task question answering is present in 2008
+The task information retrieval is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task coreference resolution is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task question answering is present in 2008
+The task  is present in 2008
+The task word alignment is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task semantic role labeling is present in 2008
+The task feature selection is present in 2008
+The task task is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task information retrieval is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task word alignment is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task speech recognition is present in 2008
+The task task is present in 2008
+The task named entity recognition is present in 2008
+The task question answering is present in 2008
+The task information retrieval is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task semantic parsing is present in 2008
+The task  is present in 2008
+The task question answering is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task question answering is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task dependency parsing is present in 2008
+The task  is present in 2008
+The task text classification is present in 2008
+The task  is present in 2008
+The task feature selection is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task question answering is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task subjectivity analysis is present in 2008
+The task question answering is present in 2008
+The task sentiment analysis is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task question answering is present in 2008
+The task domain adaptation is present in 2008
+The task  is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task feature selection is present in 2008
+The task dependency parsing is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task topic models is present in 2008
+The task information retrieval is present in 2008
+The task  is present in 2008
+The task semantic role labeling is present in 2008
+The task task is present in 2008
+The task question answering is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task language modelling is present in 2008
+The task text generation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task sentiment analysis is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task dependency parsing is present in 2008
+The task  is present in 2008
+The task feature selection is present in 2008
+The task word alignment is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task relation extraction is present in 2008
+The task task is present in 2008
+The task named entity recognition is present in 2008
+The task chunking is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task named entity recognition is present in 2008
+The task question answering is present in 2008
+The task chunking is present in 2008
+The task information retrieval is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task speech recognition is present in 2008
+The task task is present in 2008
+The task word alignment is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task coreference resolution is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task coreference resolution is present in 2008
+The task question answering is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task coreference resolution is present in 2008
+The task  is present in 2008
+The task relation extraction is present in 2008
+The task semantic role labeling is present in 2008
+The task task is present in 2008
+The task coreference resolution is present in 2008
+The task named entity recognition is present in 2008
+The task question answering is present in 2008
+The task dependency parsing is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task named entity recognition is present in 2008
+The task chunking is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task domain adaptation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task question answering is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task semantic role labeling is present in 2008
+The task task is present in 2008
+The task negation detection is present in 2008
+The task information retrieval is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task word alignment is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task text summarization is present in 2008
+The task task is present in 2008
+The task information retrieval is present in 2008
+The task  is present in 2008
+The task text classification is present in 2008
+The task task is present in 2008
+The task word sense disambiguation is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task question answering is present in 2008
+The task sentiment analysis is present in 2008
+The task  is present in 2008
+The task natural language inference is present in 2008
+The task task is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task speech recognition is present in 2008
+The task task is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task speech recognition is present in 2008
+The task task is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task word alignment is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task speech recognition is present in 2008
+The task task is present in 2008
+The task question answering is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task language acquisition is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task named entity recognition is present in 2008
+The task word sense disambiguation is present in 2008
+The task question answering is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task intent detection is present in 2008
+The task question answering is present in 2008
+The task information retrieval is present in 2008
+The task  is present in 2008
+The task question answering is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task speech recognition is present in 2008
+The task chunking is present in 2008
+The task  is present in 2008
+The task speech recognition is present in 2008
+The task task is present in 2008
+The task language acquisition is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task word sense disambiguation is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task word sense disambiguation is present in 2008
+The task domain adaptation is present in 2008
+The task information retrieval is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task relation extraction is present in 2008
+The task task is present in 2008
+The task named entity recognition is present in 2008
+The task word sense disambiguation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task part-of-speech tagging is present in 2008
+The task information retrieval is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task part-of-speech tagging is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task part-of-speech tagging is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task information retrieval is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task part-of-speech tagging is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task text classification is present in 2008
+The task speech recognition is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task text classification is present in 2008
+The task task is present in 2008
+The task text generation is present in 2008
+The task  is present in 2008
+The task part-of-speech tagging is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task information retrieval is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task semantic role labeling is present in 2008
+The task task is present in 2008
+The task word sense disambiguation is present in 2008
+The task question answering is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task semantic role labeling is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task relation extraction is present in 2008
+The task semantic role labeling is present in 2008
+The task task is present in 2008
+The task named entity recognition is present in 2008
+The task  is present in 2008
+The task semantic role labeling is present in 2008
+The task task is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task semantic role labeling is present in 2008
+The task task is present in 2008
+The task question answering is present in 2008
+The task semantic parsing is present in 2008
+The task  is present in 2008
+The task semantic role labeling is present in 2008
+The task task is present in 2008
+The task question answering is present in 2008
+The task  is present in 2008
+The task question answering is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task information retrieval is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task text summarization is present in 2008
+The task task is present in 2008
+The task coreference resolution is present in 2008
+The task question answering is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task dependency parsing is present in 2008
+The task  is present in 2008
+The task speech recognition is present in 2008
+The task task is present in 2008
+The task part-of-speech tagging is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task word sense disambiguation is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task information retrieval is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task speech recognition is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task dependency parsing is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task question answering is present in 2008
+The task word alignment is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task named entity recognition is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task coreference resolution is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task relation extraction is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task dependency parsing is present in 2008
+The task domain adaptation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task word alignment is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task question answering is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task word alignment is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task word alignment is present in 2008
+The task information retrieval is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task word alignment is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task speech recognition is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task speech recognition is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task speech recognition is present in 2008
+The task task is present in 2008
+The task information retrieval is present in 2008
+The task  is present in 2008
+The task language acquisition is present in 2008
+The task  is present in 2008
+The task information retrieval is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task information retrieval is present in 2008
+The task  is present in 2008
+The task information retrieval is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task text generation is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task speech recognition is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task relation classification is present in 2008
+The task task is present in 2008
+The task word sense disambiguation is present in 2008
+The task question answering is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task information retrieval is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task named entity recognition is present in 2008
+The task domain adaptation is present in 2008
+The task transfer learning is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task image retrieval is present in 2008
+The task information retrieval is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task edge detection is present in 2008
+The task  is present in 2008
+The task sentiment analysis is present in 2008
+The task domain adaptation is present in 2008
+The task  is present in 2008
+The task sentence compression is present in 2008
+The task  is present in 2008
+The task topic models is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task word sense disambiguation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task semantic role labeling is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task speech recognition is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task word alignment is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task named entity recognition is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task word sense disambiguation is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task semantic role labeling is present in 2008
+The task task is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task question answering is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task word sense disambiguation is present in 2008
+The task question answering is present in 2008
+The task information retrieval is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task information retrieval is present in 2008
+The task  is present in 2008
+The task speech recognition is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task named entity recognition is present in 2008
+The task question answering is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task word sense disambiguation is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task quantization is present in 2008
+The task speech recognition is present in 2008
+The task optical character recognition is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task word alignment is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task dependency parsing is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task semantic role labeling is present in 2008
+The task task is present in 2008
+The task question answering is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task word alignment is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task dependency parsing is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task speech recognition is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task chunking is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task named entity recognition is present in 2008
+The task part-of-speech tagging is present in 2008
+The task chunking is present in 2008
+The task  is present in 2008
+The task relation extraction is present in 2008
+The task task is present in 2008
+The task question answering is present in 2008
+The task information retrieval is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task question answering is present in 2008
+The task  is present in 2008
+The task relation extraction is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task feature selection is present in 2008
+The task task is present in 2008
+The task question answering is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task word alignment is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task speech recognition is present in 2008
+The task task is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task question answering is present in 2008
+The task word alignment is present in 2008
+The task dependency parsing is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task coreference resolution is present in 2008
+The task question answering is present in 2008
+The task  is present in 2008
+The task semantic role labeling is present in 2008
+The task task is present in 2008
+The task question answering is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task text generation is present in 2008
+The task  is present in 2008
+The task text summarization is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task information retrieval is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task coreference resolution is present in 2008
+The task  is present in 2008
+The task speech recognition is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task named entity recognition is present in 2008
+The task chunking is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task feature selection is present in 2008
+The task  is present in 2008
+The task language acquisition is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task chunking is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task language modelling is present in 2008
+The task part-of-speech tagging is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task speech synthesis is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task information retrieval is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task dependency parsing is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task stochastic optimization is present in 2008
+The task task is present in 2008
+The task part-of-speech tagging is present in 2008
+The task constituency parsing is present in 2008
+The task  is present in 2008
+The task constituency parsing is present in 2008
+The task dependency parsing is present in 2008
+The task  is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task word alignment is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task word alignment is present in 2008
+The task information retrieval is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task speech recognition is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task question answering is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task question answering is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task speech recognition is present in 2008
+The task task is present in 2008
+The task named entity recognition is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task question answering is present in 2008
+The task  is present in 2008
+The task subjectivity analysis is present in 2008
+The task sentiment analysis is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task speech recognition is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task speech recognition is present in 2008
+The task task is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task coreference resolution is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task coreference resolution is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task information retrieval is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task word alignment is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task chunking is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task speech recognition is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task information retrieval is present in 2008
+The task machine translation is present in 2008
+The task  is present in 2008
+The task relation extraction is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task question answering is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task speech recognition is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task sentiment analysis is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task question answering is present in 2008
+The task information retrieval is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task task is present in 2008
+The task  is present in 2008
+The task text classification is present in 2008
