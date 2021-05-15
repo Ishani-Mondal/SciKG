@@ -1,6 +1,6 @@
 # SciKG
 
-This repository contains the code for End-to-End construction of NLP Knowledge Graph, published in ACL-IJCNLP 2021
+This repository contains the code for "End-to-End construction of NLP Knowledge Graph" published in ACL-IJCNLP 2021
 
 Requirements :
 
