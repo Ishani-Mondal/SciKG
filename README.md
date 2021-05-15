@@ -1,6 +1,6 @@
 # SciKG
 
-This repository contains the code for end-to-end construction of ACL Anthology Knowledge Graph
+This repository contains the code for End-to-End construction of NLP Knowledge Graph, published in ACL-IJCNLP 2021
 
 Requirements :
 
